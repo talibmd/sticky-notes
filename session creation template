@@ -1,0 +1,18 @@
+session creation tenplate
+==============================================
+<?xml version="1.0" encoding ="utf-8" ?>
+<env:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/"
+    xmlns:urn="enterprise.soap.sforce.com"
+   <soapenv:Header>
+     <urn:sessionHeader>
+        <urn:sessionId>
+        </urn:sessionId>
+     </urn:sessionHeader>
+    </soapenv:Header>
+    <soapenv:Body>
+        <urn:query>
+            <urn:queryString>
+            </urn:queryString>
+         </urn:query>
+    </soapenv:Body>            
+</soapenv:Envelope>
