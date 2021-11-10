@@ -1,0 +1,21 @@
+\scratch org
+username: 
+test-1jvxzpqvfi31@example.com
+
+
+lgin dev-org
+----------------------
+useranme
+talibjsss@gmail.com.lwc
+
+password:      
+Talib@123
+
+
+
+
+sfdx force:source:push -u  test-1jvxzpqvfi31@example.com
+
+sfdx force:org:open -u test-1jvxzpqvfi31@example.com 
+
+-----------------------------------------
