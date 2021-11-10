@@ -1,0 +1,20 @@
+fibonacci serties in APEX
+==================
+Integer first=0;
+Integer second=1;
+Integer third=0;
+Integer i=3;
+System.debug('------------First 20 fibonacci series nos are ----------------');
+System.debug(first + '  ');
+System.debug(' ');
+
+System.debug(third +'  ');
+while(i<=20)
+{
+   third = first + second;
+   System.debug(third+ '  ');
+   first= second;
+   second  = third ;
+}
+System.debug('\n-------------finished ----------------');
+==================
