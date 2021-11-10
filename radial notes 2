@@ -1,0 +1,8 @@
+note 1
+Presently NVLAS1FRWGW01 is resolving into 10.48.248.44 and NVLAS1FRWGW02 resolving into 10.48.248.45.
+
+Need to update the IP as below
+NVLAS1FRWGW01 - it should resolve into 10.48.248.14
+NVLAS1FRWGW02 - it should resolve into 10.48.248.15
+______________________________________
+note 2
